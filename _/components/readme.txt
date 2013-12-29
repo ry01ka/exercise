@@ -1,0 +1,1 @@
+The folders inside components are processed to ../css or ../js
